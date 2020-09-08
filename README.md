@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Backend.
 - ✍️ &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-<img alt="Night Coding" height="165em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -21,8 +21,8 @@
 
 <p align="center">
 <a href="https://github.com/SebastianLabadie">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebastianLabadie&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebastianLabadie&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SebastianLabadie&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SebastianLabadie&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
