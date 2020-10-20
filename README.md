@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Styled-Components | Redux
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Tailwindcss | Styled-Components | Redux
 - 💻 &nbsp; Nodejs | Express | Firebase 
 - 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Git 
