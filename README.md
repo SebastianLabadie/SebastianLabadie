@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianLabadie" alt="SebastianLabadie" /> </p>
+
 <h2> Hey there! I'm Sebastian.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
