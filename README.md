@@ -4,20 +4,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Engineering at UDELAR.
-- 🌱 &nbsp; Learning more about Backend.
-- ✍️ &nbsp; I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🎓 &nbsp; Graduated as an Analyst in Information Technologies from Universidad ORT.
+- 💼 &nbsp; 4 years of experience in mobile and web development, specializing in React Native.
+- 🚀 &nbsp; Leading development teams and managing web/mobile projects at ICITelco, ensuring high performance and scalability.
+- 🌱 &nbsp; Passionate about researching and developing innovative solutions, constantly learning new technologies.
+- 🤝 &nbsp; Experienced in agile methodologies, infrastructure management, and team collaboration.
+- ✍️ &nbsp; Open to new opportunities and collaborations.
 
 <img alt="Night Coding" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Bootstrap | Tailwindcss | Styled-Components | Redux
-- 💻 &nbsp; Nodejs | Express | Firebase 
-- 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; Git 
-
+- 🌐 &nbsp; React | Vue 
+- 💻 &nbsp; Nodejs | Genexus | Docker
+- 📱 &nbsp; React Native | Expo 
+- 🔧 &nbsp; AWS | CI/CD
 
 ### ⚙️ &nbsp;GitHub Analytics
 
